@@ -1,0 +1,39 @@
+[
+ {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Leonardo_da_Vinci_-_Mona_Lisa.jpg/1200px-Leonardo_da_Vinci_-_Mona_Lisa.jpg",
+  "autor":"Leonardo da Vinci",
+  "name":"Mona Lisa - 1506",
+  "conteudo": "Sua pintura foi iniciada em 1503 e é nesta obra que o artista melhor concebeu a técnica do sfumato. O quadro representa uma mulher com uma expressão introspectiva e um pouco tímida. O seu sorriso restrito é muito sedutor, mesmo que um pouco conservador. O seu corpo representa o padrão de beleza da mulher na época de Leonardo. Este quadro é provavelmente o retrato mais famoso na história da arte, senão, o quadro mais famoso e valioso de todo o mundo. Poucos outros trabalhos de arte são tão controversos, questionados, valiosos, elogiados, comemorados ou reproduzidos. Muitos historiadores da arte desconfiavam de que a reverência de Da Vinci pela Mona Lisa nada tinha a ver com sua maestria artística. Segundo muitos afirmavam devia-se a algo muito bem mais profundo: uma mensagem oculta nas camadas de pintura. Se observarem com calma verá que a linha do horizonte que Da Vinci pintou se encontra num nível visivelmente mais baixo que a da direita, ele fez com que a Mona Lisa parecer muito maior vista da esquerda que da direita. Historicamente, os conceitos de masculino e feminino estão ligados aos lados - o esquerdo é feminino, o direito é o masculino."
+ },
+
+ {"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKhQRLzvKtCdIjBRrDDNdUF25T5nN2nHbKZKZ634-bxGQ7aKsi",
+    "autor":"Vincent van Gogh",
+    "name":"A Noite Estrelada",
+    "conteudo":"Noite Estrelada é uma pintura de Vincent van Gogh de 1889. A obra retrata a vista da janela de um quarto do hospício de Saint-Rémy-de-Provence, pouco antes do nascer do sol, com a adição de um vilarejo idealizado pelo artista. A tela faz parte da coleção permanente do Museu de Arte Moderna de Nova Iorque desde 1941."
+ },
+
+ {"url":"https://upload.wikimedia.org/wikipedia/commons/6/66/Johannes_Vermeer_%281632-1675%29_-_The_Girl_With_The_Pearl_Earring_%281665%29.jpg",
+    "autor":"Johannes Vermeer",
+    "name":"Meisje met de parel",
+    "conteudo":"Moça com o Brinco de Pérola ou Rapariga com o Brinco de Pérola é uma pintura do artista neerlandês Johannes Vermeer de 1665. Como o seu nome indica, é utilizado um brinco de pérola como ponto focal. A pintura está no Mauritshuis de Haia. É muitas vezes referido como 'a Mona Lisa do Norte' ou 'a Mona Lisa holandesa'."
+ },
+
+ {"url":"https://upload.wikimedia.org/wikipedia/commons/7/71/Grant_DeVolson_Wood_-_American_Gothic.jpg",
+    "autor":"Grant Wood",
+    "name":"American Gothic",
+    "conteudo":"American Gothic é uma pintura de Grant Wood da coleção do Art Institute of Chicago. A inspiração de Wood veio de uma casa desenhada em estilo gótico rural com uma distinta janela superior e uma decisão de pintar junto a casa com ''o tipo de pessoa que eu imaginava viver naquela casa.''"
+ },
+
+ {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg",
+    "autor":"Vincent van Gogh",
+    "name":"Auto-Retrato",
+    "conteudo":"Traduzido do inglês-Auto-retrato é um óleo de 1889 sobre tela pelo artista pós-impressionista Vincent van Gogh. A imagem, que pode ter sido o último retrato de van Gogh, foi pintada em setembro daquele ano, pouco antes de deixar Saint-Rémy-de-Provence, no sul da França. A pintura é exibida no Museu de Orsay, em Paris."
+ },
+
+ {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f3/Vincent_van_Gogh_%281853-1890%29_-_Wheat_Field_with_Crows_%281890%29.jpg",
+    "autor":"Vincent van Gogh",
+    "name":"Campo de Trigo com Corvos",
+    "conteudo":"Campo de Trigo com Corvos é uma obra do pintor holandês Vincent van Gogh concluída em julho de 1890, nas últimas semanas de vida de van Gogh. A obra está atualmente exposta no Museu Van Gogh, em Amsterdã, na Holanda."
+ }
+ 
+
+]
